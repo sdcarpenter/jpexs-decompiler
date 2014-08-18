@@ -151,7 +151,7 @@
                 <manifest></manifest>
                 <icon>${EXEICON}</icon>
                 <jre>
-                    <path></path>
+                    <path>jre7</path>
                     <minVersion>${MINJAVAVERSION}</minVersion>
                     <maxVersion></maxVersion>
                     <jdkPreference>preferJre</jdkPreference>
@@ -190,7 +190,7 @@
                 <manifest></manifest>
                 <icon>${EXEICON}</icon>
                 <jre>
-                    <path></path>
+                    <path>jre7</path>
                     <minVersion>${MINJAVAVERSION}</minVersion>
                     <maxVersion></maxVersion>
                     <jdkPreference>preferJre</jdkPreference>
